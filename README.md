@@ -42,6 +42,14 @@
 
 </div>
 
+<div align="center">
+
+  ## 🚀 Mis habilidades principales
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts)](https://skillicons.dev)
+
+</div>
+
 <div>
 
 ## 🛠️ &nbsp;Mi stack actual
