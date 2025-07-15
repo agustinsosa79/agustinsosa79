@@ -3,9 +3,6 @@
 <br>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agustinsosa79&color=blueviolet" alt="Profile views" />
@@ -21,13 +18,13 @@
 
 - 💻 Frontend Dev aprendiendo backend
 - 🚀 Creador de [FitBoard](https://github.com/agustinsosa79/fitboard) – una plataforma para entrenadores y gimnasios
-- 🌱 Estudiando **Node.js**, **SQL**, y llevando mis proyectos al siguiente nivel
-- 🧠 Fan de aprender haciendo cosas reales y funcionales
+- 🌱 Estudiando **Node.js**, **SQL**
+- 🧠 Fan de aprender 
 
 </div>
 
 <div align="center">
-  `Creando productos simples, útiles y visualmente limpios`
+  `que es un div ?)`
   <br>
   `=========================`
   <br>
@@ -82,12 +79,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Agustín_Sosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-sosa-709a66233/)](https://www.linkedin.com/in/agustin-sosa-709a66233/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-agustinsosaa81@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:agustinsosaa81@gmail.com)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-@fitcor3-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fitcor3/)
 
-</div>
 
-<div>
-  <img src="https://github.com/agustinsosa79/agustinsosa79/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 ---
