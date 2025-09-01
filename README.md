@@ -47,7 +47,7 @@
 
   ## 🚀 Mi stack actual
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,firebase,express,git,github,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,nest,express,postgresql,git,github,)](https://skillicons.dev)
 
 </div>
 
