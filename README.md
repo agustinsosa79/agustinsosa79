@@ -16,10 +16,9 @@
 
 ## 🧭 &nbsp;Sobre mí
 
-- 💻 Frontend Dev aprendiendo backend
-- 🚀 Creador de [FitBoard](https://github.com/agustinsosa79/fitboard) – una plataforma para entrenadores y gimnasios
+- 💻 Frontend Dev
 - 🌱 Estudiando **Express**, **NestJS**, **React**
-- 🧠 Fan de aprender 
+- 🧠 Entretando el bocho
 
 </div>
 
